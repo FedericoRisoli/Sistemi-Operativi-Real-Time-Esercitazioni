@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <unistd.h>
 #include <netdb.h>
-#include <arpa/inet.h>
+
 #include <time.h>
 
 #include "list.h"
